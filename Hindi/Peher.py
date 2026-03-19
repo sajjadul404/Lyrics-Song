@@ -1,6 +1,7 @@
 import sys
 import time
 
+# 0:45 minute Start Lyrics
 lyrics = [
 "Akhiyan tarse teri yaadon mai",
 "Vekkhiyan bhar ke mukhra soniye",
