@@ -1,6 +1,7 @@
 import sys
 import time
 
+# 0:50 minute Start Lyrics
 lyrics = [
     "I'm in love with the shape of you",
     "We push and pull like a magnet do",
