@@ -1,6 +1,7 @@
 import sys
 import time
 
+# 0:50 minute Start Lyrics
 print('"🎧 Now Playing: Tera Zikr"'+ " - Darshan Raval\n")
 lyrics = [
     "Mujhe khone ke baad ik din",
