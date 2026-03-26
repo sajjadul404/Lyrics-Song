@@ -2,7 +2,7 @@ import sys
 import time
 
 # 0:50 minute Start Lyrics
-print('"🎧 Now Playing: Tera Zikr"'+ " - Darshan Raval\n")
+print("\033[34m🎧 Now Playing: Tera Zikr \033[0m"+ " - Darshan Raval")
 lyrics = [
     "Mujhe khone ke baad ik din",
     "Tum mujhe yaad karooooge   ",
