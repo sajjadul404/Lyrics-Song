@@ -21,3 +21,4 @@ for line in lyrics:
         sys.stdout.flush()
         time.sleep(0.16)
     print()
+    
