@@ -15,6 +15,7 @@ lyrics = [
     "  Phir dekhna milne ki mujhse",
     "  Tum fariyad karoooooge .... \n",
 ]
+
 for line in lyrics:
     for char in line:
         sys.stdout.write(char)
