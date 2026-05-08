@@ -12,7 +12,7 @@ lyrics = [
 "Tere sang jo pal bitaata",
 "Waqt se main woh maang lata",
 "Yaad karke muskuraata haan",
-"Woo….\n"
+"Woo… ooo woooo.\n"
 ]
 
 for line in lyrics:
