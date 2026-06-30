@@ -1,30 +1,52 @@
-<h1 align="center">🎵 Lyrics Song Collection 🎶</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=220&section=header&text=🎵%20Lyrics%20Song&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h1 align="center">🎶 Lyrics Song Collection 🎶</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=Welcome+to+My+Lyrics+Collection!;English+%26+Hindi+Song+Lyrics;Music+Lovers+Repository+🎧;Enjoy+the+Lyrics+🎼" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=900&lines=🎤+Welcome+to+Lyrics+Song!;🎵+English+%26+Hindi+Lyrics+Collection;🎧+Feel+The+Music+Through+Words;✨+Enjoy+Your+Favorite+Songs!" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sajjadul404/Lyrics-Song?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/forks/sajjadul404/Lyrics-Song?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/last-commit/sajjadul404/Lyrics-Song?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/languages/top/sajjadul404/Lyrics-Song?style=for-the-badge"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/sajjadul404/Lyrics-Song?style=for-the-badge&color=ff69b4"/>
+  <img src="https://img.shields.io/github/forks/sajjadul404/Lyrics-Song?style=for-the-badge&color=8A2BE2"/>
+  <img src="https://img.shields.io/github/last-commit/sajjadul404/Lyrics-Song?style=for-the-badge&color=00C9A7"/>
+  <img src="https://img.shields.io/github/license/sajjadul404/Lyrics-Song?style=for-the-badge&color=FFB000"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sajjadul404&repo=Lyrics-Song&label=Repository+Visitors&style=for-the-badge&color=blueviolet"/>
 </p>
 
 ---
 
 # 🎼 About
 
-**Lyrics Song** is a personal collection of song lyrics from different languages, organized for easy browsing and reading.
+**Lyrics Song** is a personal collection of song lyrics from different languages.
 
-Whether you're looking for **English** or **Hindi** songs, this repository serves as a simple archive of lyrics for learning, singing, and enjoying music.
+This repository is created for **music lovers**, making it easy to read, learn, and enjoy lyrics from popular songs.
+
+Whether you're looking for **English** or **Hindi** songs, you'll find them organized neatly in separate folders.
 
 ---
 
-# 🎵 Categories
+# 🎧 Repository Preview
 
-| 📂 Folder | Description |
-|-----------|-------------|
+<p align="center">
+🎵 🎤 🎼 🎸 🎹 🥁 🎺 🎷 🎧
+</p>
+
+---
+
+# 📂 Categories
+
+| Folder | Description |
+|---------|-------------|
 | 🇬🇧 English_Song | English song lyrics |
 | 🇮🇳 Hindi_Song | Hindi song lyrics |
 
@@ -32,28 +54,29 @@ Whether you're looking for **English** or **Hindi** songs, this repository serve
 
 # ✨ Features
 
-- 🎧 Organized lyrics collection
-- 📖 Easy-to-read text format
-- 🌍 Multiple language categories
-- 🎤 Great for music lovers
-- 📂 Simple folder structure
-- 🚀 Easy to expand with new songs
+- 🎵 Well Organized Lyrics
+- 🎤 English Songs
+- 🎼 Hindi Songs
+- 📖 Easy to Read
+- 📂 Simple Folder Structure
+- ❤️ Music Lover Friendly
+- 🚀 Easy to Expand
 
 ---
 
 # 📁 Repository Structure
 
-```
+```text
 Lyrics-Song
 │
 ├── English_Song
-│   ├── Song 1
-│   ├── Song 2
+│   ├── Song1
+│   ├── Song2
 │   └── ...
 │
 ├── Hindi_Song
-│   ├── Song 1
-│   ├── Song 2
+│   ├── Song1
+│   ├── Song2
 │   └── ...
 │
 └── README.md
@@ -61,36 +84,39 @@ Lyrics-Song
 
 ---
 
-# 🎶 Languages Included
+# 🌍 Languages
 
-- 🇬🇧 English
-- 🇮🇳 Hindi
-
-More languages will be added in the future.
-
----
-
-# 🎯 Future Plans
-
-- 🎵 Bengali Songs
-- 🇰🇷 Korean Songs
-- 🇯🇵 Japanese Songs
-- 🔍 Lyrics Search
-- ⭐ Favorite Songs List
-- 🎼 Artist-wise Organization
+| Language | Status |
+|----------|--------|
+| 🇬🇧 English | ✅ Available |
+| 🇮🇳 Hindi | ✅ Available |
+| 🇧🇩 Bangla | 🔜 Coming Soon |
+| 🇰🇷 Korean | 🔜 Coming Soon |
+| 🇯🇵 Japanese | 🔜 Coming Soon |
 
 ---
 
-# 🤝 Contributions
+# 🚀 Future Plans
 
-Want to add lyrics?
+- 🎶 Bengali Lyrics
+- 🎤 Korean Lyrics
+- 🎧 Japanese Lyrics
+- ⭐ Favorite Songs
+- 🔍 Search by Artist
+- 📀 Album Wise Organization
 
-Feel free to:
+---
 
-- ⭐ Star the repository
-- 🍴 Fork the repository
-- 🎤 Add new song lyrics
-- 🚀 Submit a Pull Request
+# 🤝 Contribution
+
+Contributions are welcome!
+
+You can help by:
+
+- ⭐ Starring this repository
+- 🍴 Forking the project
+- 🎵 Adding new lyrics
+- 🚀 Creating a Pull Request
 
 ---
 
@@ -98,20 +124,28 @@ Feel free to:
 
 ### Sajjadul Islam
 
-<p>
-
+<p align="center">
 <a href="https://github.com/sajjadul404">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
 
-## 🎧 "Where words fail, music speaks." 🎶
+## 🎶 "Without music, life would be a mistake." — Friedrich Nietzsche
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4D6D,100:6A5ACD&height=120&section=footer"/>
+</p>
 
+---
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=radical"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,100:dd2476&height=150&section=footer"/>
 </p>
